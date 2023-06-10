@@ -1,5 +1,5 @@
 ## Hello, 
-- I'm Matthew Lavanthony McDaniel IV
+## I'm Matthew Lavanthony McDaniel IV
 - 😄 Pronouns: He/Him
 - 💻 Aspiring Software Developer | Passionate about Web Development
 - 💡 Seeking oppurtunities to grow, learn, and contribute to innovative projects
