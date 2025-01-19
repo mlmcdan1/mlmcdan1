@@ -12,7 +12,7 @@
 ## What I’m Working On
 - 🔭 Currently building web applications and diving into new technologies  
 - 🌱 Focusing on **Next.js** and **Three.js**  
-- 🎮 **Fun Fact**: When I’m not coding, I spend time with my family or playing **Black Ops 6**. Let’s swap gamertags!
+- 🎮 **Fun Fact**: When I’m not coding, I'm spending time with my family or playing **Black Ops 6**. Let’s swap gamertags!
 
 ---
 
