@@ -22,6 +22,7 @@
 - **OCR Test Converter** – iOS tool to scan and edit printed test documents (Swift + Vision)
 - **Disney+ Clone (Web)** – Streaming-style UI using TMDb API, React, and Tailwind CSS
 - **Client Projects** – Helping small businesses modernize their web presence using AI tools + templates
+- **Volunteer Developer @ Audemy** – Improving accessibility (ADA compliance) for sites serving blind & deaf students (Vue + ARIA + heading structure overhaul)
 
 ---
 
@@ -45,15 +46,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 <p align="center">
@@ -66,6 +58,3 @@
 ---
 
 <p align="center"><i>“I don’t chase hype — I build for what matters.”</i></p>
-
-
-
