@@ -1,4 +1,4 @@
-<h1 align="center">Matt McDaniel | Software Developer</h1>
+<h1 align="center">Matthew L. McDaniel IV| Software Developer</h1>
 
 <p align="center">
   Focused on building real, impactful tech — iOS apps, full-stack platforms, and tools that help people.
