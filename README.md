@@ -8,7 +8,100 @@
 
 ### 💡 About Me
 
-- 🎓 Master’s student in Software Engineering (graduating December 2025)
+- 🎓 Master’s student in Software Engineering (graduating December 202<h1 align="center">Matthew L. McDaniel IV</h1>
+
+<p align="center">
+Software Developer • iOS and Web • Building real projects while leveling up every day 🎮
+</p>
+
+<p align="center">
+Beginner friendly builder mindset. I learn by shipping.
+</p>
+
+<br />
+
+## 👋 About Me
+
+I am a software developer who focuses on building useful apps and sites, learning in public, and improving through real work.
+
+### What matters to me
+* Shipping projects that solve real problems
+* Clean UI that feels good to use
+* Accessibility that works for everyone
+* Consistency and progress over perfection
+
+## 🤖 How I use AI in my workflow
+
+I use **Base44** to bring AI into my day to day workflow so I can move faster while I learn.
+
+### What I use Base44 for
+* Generating and improving landing pages and UI sections
+* Turning rough ideas into clear page layouts and components
+* Creating and iterating on website copy that sounds human
+* Building quick automations for common website tasks and updates
+* Helping me debug and understand code changes step by step
+
+If you are also learning, my approach is simple: use AI to remove friction, but still make sure I understand what I ship.
+
+## 🔨 What I am working on
+
+### 📱 iOS
+* **BrightBuddies**  
+Kid friendly learning app built with SwiftUI and Firebase
+
+* **ExamLayoutAI**  
+Teacher focused tool to turn test photos into clean editable content and exports
+
+### 🌐 Web
+* **SmartFlix**  
+Movie discovery app with a modern cinematic UI and an AI helper experience
+
+* **Client style websites and mockups**  
+Fast build sites for small businesses using strong templates, clean UI, and clear calls to action
+
+### ♿ Accessibility work
+* **Volunteer Developer**  
+Improving heading structure, keyboard navigation, and screen reader flow for education focused sites
+
+## 🧰 Tech I use
+
+### Languages
+Swift  
+JavaScript  
+Python  
+C#
+
+### Frameworks and tools
+SwiftUI  
+Firebase  
+React  
+Next.js  
+Tailwind CSS  
+Node.js  
+MongoDB  
+Figma  
+GitHub
+
+## ✨ Cool extras
+
+### Micro interactions I like adding
+* Button hover states and press feedback
+* Smooth page section reveals on scroll
+* Card tilt or soft float effects for featured projects
+* Simple mascot or icon motion for kid friendly screens
+
+### Game vibe corner
+* I like building UI that feels like a game menu  
+Big buttons, clear icons, satisfying feedback 🕹️  
+* I care about flow  
+The user should always know what to do next 🎯
+
+## 🔗 Connect with me
+
+Add your links here:
+* Portfolio: 
+* LinkedIn: 
+* Email: 5)
 - 🧱 Experience includes freelance work, open-source contributions, and volunteer projects
 - 💻 I build tools for education, accessibility, and small business growth
 - 📱 Comfortable across mobile and web — currently shipping iOS apps with SwiftUI + Firebase
