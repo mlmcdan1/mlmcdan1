@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 
-- 🎓 Master’s student in Software Engineering (graduating December 202<h1 align="center">Matthew L. McDaniel IV</h1>
+- 🎓 Master’s student in Software Engineering <h1 align="center">Matthew L. McDaniel IV</h1>
 
 <p align="center">
 Software Developer • iOS and Web • Building real projects while leveling up every day 🎮
