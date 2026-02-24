@@ -1,4 +1,55 @@
-<h1 align="center">Matthew L. McDaniel IV| Software Developer</h1>
+<h1 align="center">Matthew L. McDaniel IV</h1>
+
+<p align="center">
+Software Developer • iOS and Web • Building real projects while leveling up every day 🎮
+</p>
+
+<p align="center">
+Focused on building useful, polished tech that helps people.
+</p>
+
+<br />
+
+## 👋 About Me
+
+I am a software developer who enjoys shipping real apps, learning in public, and improving through hands on work. I care about clean UI, accessibility, and steady progress.
+
+## ✅ What matters to me
+
+* Shipping projects that solve real problems  
+* Clean UI that feels good to use  
+* Accessibility that works for everyone  
+* Consistency and progress over perfection  
+
+## 🤖 How I use AI in my workflow
+
+I use **Base44** to bring AI into my day to day workflow so I can move faster while I learn and still understand what I ship.
+
+### What I use Base44 for
+
+* Generating and improving landing pages and UI sections  
+* Turning rough ideas into clear layouts and components  
+* Writing website copy that sounds human  
+* Building small automations for repeated site updates  
+* Debugging and understanding code changes step by step  
+
+## 🔨 What I am working on
+
+### 📱 iOS
+
+* **BrightBuddies**  
+  Kid friendly learning app built with SwiftUI and Firebase
+
+* **ExamLayoutAI**  
+  Teacher focused tool that turns test photos into clean editable content and exports
+
+### 🌐 Web
+
+* **SmartFlix**  
+  Movie discovery app with a modern cinematic UI and an AI helper experience
+
+* **Client style websites and mockups**  
+  Fast build sites for small businesses using strong templates, clean UI, and clear calls to action<h1 align="center">Matthew L. McDaniel IV| Software Developer</h1>
 
 <p align="center">
   Focused on building real, impactful tech — iOS apps, full-stack platforms, and tools that help people.
